@@ -13,8 +13,8 @@ Analytical problem: Identify utilisation trends in the NHS network to inform the
 ## Dataset
 
 - Details of appointments made by patients. For example, the regional information, date, duration, and number of appointments pertaining to a certain class (actual_duration.csv)
-- Details on the type of appointments made by patients. For example, regional information, the month of appointment, appointment status, healthcare professional, appointment mode, the time between booking and the appointment, as well as the number of appointments pertaining to a certain class (appointments_regional.csv).
-- Details of the national categories of appointments made by patients. For example, the regional information, date of appointment, service setting, type of context, national category, and the number of appointments pertaining to a certain class (national_categories.xlsx).
+- Details on the type of appointments made by patients. For example, regional information, the month of appointment, appointment status, healthcare professional, appointment mode, the time between booking and the appointment, as well as the number of appointments pertaining to a certain class (appointments_regional_1.csv, appointments_regional_2.csv).
+- Details of the national categories of appointments made by patients. For example, the regional information, date of appointment, service setting, type of context, national category, and the number of appointments pertaining to a certain class (national_categories_1.xlsx, national_categories_2.xlsx).
 - Data related to healthcare in the UK scraped from Twitter (tweets.csv).
 
 ## Artefacts
